@@ -18,7 +18,7 @@ import wolf from "../../Assets/wolf.PNG";
 import splassive from "../../Assets/splassive.PNG"
 import tronforever from "../../Assets/tron-forever.png"
 import bnbShers from "../../Assets/bnb-shers.png"
-import RTD from "../../Assets/RTD.jpg"
+import RTD from "../../Assets/RTD.png"
 import center from "../../Assets/center.png"
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
